@@ -105,7 +105,9 @@ Service:
 
 Some Functions:
 Jwt is used for handling sessions and Role based access
+
     Admin can only move to the admin's page to manage the user and service provider's details.
     Service provider can only add new services and manages orders
     User's can't able to visit the service provider's page (the session is handled). The user can only book services and see their booking and can track their bookings.
+    
 Authentication systems are also provided like register, login and logout.
