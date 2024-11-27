@@ -104,6 +104,7 @@ Service:
 
 
 Some Functions:
+
 Jwt is used for handling sessions and Role based access
 
     Admin can only move to the admin's page to manage the user and service provider's details.
